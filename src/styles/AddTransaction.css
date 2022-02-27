@@ -1,0 +1,36 @@
+
+.AddTransaction{
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+form{
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+}
+form input{
+    width: 200px;
+    display: flex;
+    background-color: #fff;
+    box-shadow: var(--box-shadow);
+    color: #333;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: -5px ;
+    line-height: 25px;
+    border-radius: 5px;
+}
+form button{
+    width: 230px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 10px ;
+    line-height: 25px;
+    border-radius: 5px;
+    background-color: cadetblue;
+    
+}
